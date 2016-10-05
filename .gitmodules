@@ -1,3 +1,6 @@
 [submodule "mailer-ms"]
 	path = mailer-ms
 	url = git@gitlab.com:cp2020/mailer-ms.git
+[submodule "contents-ms"]
+	path = contents-ms
+	url = git@gitlab.com:cp2020/contents-ms.git
