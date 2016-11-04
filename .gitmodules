@@ -1,6 +1,6 @@
 [submodule "mailer-ms"]
 	path = mailer-ms
-	url = https://gitlab.com/cp2020/mailer-ms.git
+	url = https://gitlab.com/cp2020/mailerms.git
 [submodule "contents-ms"]
 	path = contents-ms
-	url = https://gitlab.com/cp2020/contents-ms.git
+	url = https://gitlab.com/cp2020/contentms.git
