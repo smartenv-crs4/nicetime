@@ -1,6 +1,6 @@
+[submodule "contentms"]
+	path = contentms
+	url = git@gitlab.com:cp2020/contentms.git
 [submodule "mailerms"]
 	path = mailerms
-	url = https://gitlab.com/cp2020/mailerms.git
-[submodule "contentsms"]
-	path = contentsms
-	url = https://gitlab.com/cp2020/contentms.git
+	url = git@gitlab.com:cp2020/mailerms.git
