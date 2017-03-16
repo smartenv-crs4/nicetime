@@ -4,3 +4,6 @@
 [submodule "mailerms"]
 	path = mailerms
 	url = https://gitlab.com/cp2020/mailerms.git
+[submodule "contentui"]
+	path = contentui
+	url = git@gitlab.com:cp2020/contentui.git
