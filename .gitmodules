@@ -7,3 +7,6 @@
 [submodule "contentui"]
 	path = contentui
 	url = git@gitlab.com:cp2020/contentui.git
+[submodule "userui"]
+	path = userui
+	url = https://guido.porruvecchio@gitlab.com/cp2020/userui.git
