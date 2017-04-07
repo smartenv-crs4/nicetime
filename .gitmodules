@@ -1,12 +1,12 @@
 [submodule "contentms"]
 	path = contentms
-	url = https://gitlab.com/cp2020/contentms.git
+	url = git@gitlab.com:cp2020/contentms.git
 [submodule "mailerms"]
 	path = mailerms
-	url = https://gitlab.com/cp2020/mailerms.git
+	url = git@gitlab.com:cp2020/mailerms.git
 [submodule "contentui"]
 	path = contentui
 	url = git@gitlab.com:cp2020/contentui.git
 [submodule "userui"]
 	path = userui
-	url = https://guido.porruvecchio@gitlab.com/cp2020/userui.git
+	url = git@gitlab.com:cp2020/userui.git
