@@ -10,3 +10,6 @@
 [submodule "userui"]
 	path = userui
 	url = git@gitlab.com:cp2020/userui.git
+[submodule "commonui"]
+	path = commonui
+	url = git@gitlab.com:cp2020/commonui.git
