@@ -13,3 +13,6 @@
 [submodule "commonui"]
 	path = commonui
 	url = git@gitlab.com:cp2020/commonui.git
+[submodule "shipms"]
+	path = shipms
+	url = git@gitlab.com:cp2020/shipms.git
